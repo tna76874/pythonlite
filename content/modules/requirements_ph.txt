@@ -1,0 +1,10 @@
+matplotlib
+scipy
+numpy
+pandas
+Pint
+uncertainties
+schemdraw
+sympy
+uncertainties
+openpyxl
